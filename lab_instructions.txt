@@ -13,10 +13,11 @@ For this hw you’ll be planning and implementing a semantic structuring strateg
 2.	Structure pages
              a.	Applies to: all .html pages
              b.	Using the strategy devised from the structure.html file, structure each of the remaining files so that the site uses a consistent, logical structure. Add all the elements discussed in the lecture (Week 2B - More Structuring Content) to the .html files.  
-- HERE!
+- HERE! - did index & links, doing next
 
 3.	Apply ARIA roles
              a.	Applies to: all pages
              b.	As you are structuring pages, add ARIA roles to elements when appropriate. 
-					
+- HERE too!					
+
 
