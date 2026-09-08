@@ -4,16 +4,19 @@ For this hw you’ll be planning and implementing a semantic structuring strateg
 
 1.	Determine a structuring strategy.
              a.	Applies to: structure.html
-             b.	Open the structure.html file and explore the page structure and ARIA roles. Write out the document outline, and how structural tags like aside, article, nav, and section are being used.
-             c.	Examine how semantic tags like the header, footer, main, etc are used.
-             d. review slide #7 of the lecture slides.Create a diagram of how the tags would look like in this HW website. Take a screenshot of the diagram and add it to the images folder.
-             e. review slide #10 of the lecture slides. Use the website(s) provided or other alternative options to generate a document outline. Take a screenshot of the outline and add it to the images folder.
+             b.	Open the structure.html file and explore the page structure and ARIA roles. Write out the document outline, and how structural tags like aside, article, nav, and section are being used. <!--Wasn't sure what you meant here by write the doument outline (espcially since we take a picture of it from the w3 validator in the next steps of this part), so I just added comments of where the document outline parts were as well as comments about what the roles did-->
+             c.	Examine how semantic tags like the header, footer, main, etc are used. <!--added comments to explain what they do to show they were examined-->
+             d. review slide #7 of the lecture slides. Create a diagram of how the tags would look like in this HW website. Take a screenshot of the diagram and add it to the images folder. <!--Created in figma of what page looks like based on the use of tags and their location and added to the images folder-->
+             e. review slide #10 of the lecture slides. Use the website(s) provided or other alternative options to generate a document outline. Take a screenshot of the outline and add it to the images folder. <!--Used w3 validation tool to create outline, took a screenshot, and added it to the images folder-->
+- Finished
+
 2.	Structure pages
              a.	Applies to: all .html pages
              b.	Using the strategy devised from the structure.html file, structure each of the remaining files so that the site uses a consistent, logical structure. Add all the elements discussed in the lecture (Week 2B - More Structuring Content) to the .html files.  
+- HERE!
 
 3.	Apply ARIA roles
              a.	Applies to: all pages
              b.	As you are structuring pages, add ARIA roles to elements when appropriate. 
-					- test if worked
+					
 
